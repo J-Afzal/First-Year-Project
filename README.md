@@ -25,3 +25,10 @@ This lab consisted of creating a RF remote to control the vehicle, then installi
 </p>
 
 # Lab 3
+This lab consisted of changing the optical sensors out for a Raspberry Pi camera on a servo, which would send the camera output to a Raspberry Pi on the car and processed by code using the computer vision library called OpenCV - this would allow the car to follow lines of different colours. This setup would also allow the camera to tilt up to detect symbols and take a certain action - however this was not implemented as symbol detection in non-lab conditions was not good due to noise.
+
+<p align="center">
+  <img src="https://github.com/J-Afzal/First-Year-Project/blob/main/Lab%203/pics/camera.jpg" width="400">
+  <img src="https://github.com/J-Afzal/First-Year-Project/blob/main/Lab%203/pics/symbol%20detection.jpg" width="400">
+  <img src="https://github.com/J-Afzal/First-Year-Project/blob/main/Lab%203/pics/final%20test.gif" width="800">
+</p>
